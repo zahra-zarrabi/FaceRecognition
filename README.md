@@ -1,5 +1,5 @@
 # Face Recognition  
-In this project we recognize 14 faces by using deep CNN network.  
+In this project we recognize 14 faces by using deep CNN network with tensorflow in the custom mode.  
 
 ## Training  
 Please run `face_recognition.ipynb`  
