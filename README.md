@@ -16,5 +16,5 @@ Show results on wandb [here](https://wandb.ai/zahra_zarrabi/face-recognition?wor
 ## Face Alignment
 Execute the following command to detect and align the face image using the imutils package:
 ```
-python3 align_image.py --input ./input/image.jpg --output ./output
+python3 align_image.py --input /input/image.jpg --output ./output
 ```
